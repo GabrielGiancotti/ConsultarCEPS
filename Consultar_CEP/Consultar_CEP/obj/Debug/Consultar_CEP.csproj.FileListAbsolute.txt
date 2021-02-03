@@ -1,0 +1,10 @@
+D:\Treinamento_Estagio\Projeto_Correios\Consultar_CEP\Consultar_CEP\bin\Debug\Consultar_CEP.exe.config
+D:\Treinamento_Estagio\Projeto_Correios\Consultar_CEP\Consultar_CEP\bin\Debug\Consultar_CEP.exe
+D:\Treinamento_Estagio\Projeto_Correios\Consultar_CEP\Consultar_CEP\bin\Debug\Consultar_CEP.pdb
+D:\Treinamento_Estagio\Projeto_Correios\Consultar_CEP\Consultar_CEP\obj\Debug\Consultar_CEP.csprojAssemblyReference.cache
+D:\Treinamento_Estagio\Projeto_Correios\Consultar_CEP\Consultar_CEP\obj\Debug\Consultar_CEP.frmBuscaCEPS.resources
+D:\Treinamento_Estagio\Projeto_Correios\Consultar_CEP\Consultar_CEP\obj\Debug\Consultar_CEP.Properties.Resources.resources
+D:\Treinamento_Estagio\Projeto_Correios\Consultar_CEP\Consultar_CEP\obj\Debug\Consultar_CEP.csproj.GenerateResource.cache
+D:\Treinamento_Estagio\Projeto_Correios\Consultar_CEP\Consultar_CEP\obj\Debug\Consultar_CEP.csproj.CoreCompileInputs.cache
+D:\Treinamento_Estagio\Projeto_Correios\Consultar_CEP\Consultar_CEP\obj\Debug\Consultar_CEP.exe
+D:\Treinamento_Estagio\Projeto_Correios\Consultar_CEP\Consultar_CEP\obj\Debug\Consultar_CEP.pdb

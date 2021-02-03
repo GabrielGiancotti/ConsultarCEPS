@@ -1,1 +1,1 @@
-# ConsultarCEPS
+# Projeto que usa o WebService dos Correios para realização de consultas de endereço através dos CEPS
